@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @H-KC
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning web development, also app development
+- 🌱 I’m a web developer and graphic designer
 - 💞️ I’m looking to collaborate on either web or app development
 - 📫 How to reach me either on github or via email "01hkc01@gmail.com"
 
